@@ -16,9 +16,9 @@ body {
         float: right;
         color: black;
         text-align: center;
-        padding: 14px 16px;
+        padding: 5px 5px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 9px;
       }
       
       .navbar a:hover {
@@ -30,6 +30,14 @@ body {
         background-color: white;
         color: black;
       }
-      .h1 {
+      div h1 {
         text-align: left;
+      }
+      
+      div p {
+        text-align: left;
+      }
+
+      button {
+        align-items: left;
       }
